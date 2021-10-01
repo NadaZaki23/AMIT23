@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "Artimatics.h"
-#include "Test.h"
-#include "Bitwise.h"
+//#include "Artimatics.h"
+//#include "Test.h"
+//#include "Bitwise.h"
 #define SQR2(x) (x*x)
 
 inline int SQR(int x)
